@@ -1,0 +1,6 @@
+{
+  "name": "English Classroom Dynamics Pack",
+  "description": "Uma página de upsell pós-compra altamente persuasiva e interativa para professores de inglês com dinâmicas, jogos e brincadeiras prontas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
